@@ -20,9 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=honorine22&show_icons=true&locale=en" alt="honorine22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honorine22&" alt="honorine22" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honorine22&show_icons=true&locale=en&layout=compact" alt="honorine22" /></p>\
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honorine22&show_icons=true&locale=en&layout=compact" alt="honorine22" /></p>
 
-<p align="left">
+<p align="left">&nbsp;
 <h3 align="left">Where to find me</h3>
 <p align="left"><a href="https://github.com/honorine22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/igiranezahonor2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/honorine-igiraneza-287901194" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
