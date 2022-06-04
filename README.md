@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=honorine22&show_icons=true&locale=en" alt="honorine22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honorine22&" alt="honorine22" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honorine22&show_icons=true&locale=en&layout=compact" alt="honorine22" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honorine22&show_icons=true&locale=en&layout=compact" alt="honorine22" /></p><br />
 
 
 <h3 align="left">Where to find me</h3>
