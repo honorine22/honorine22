@@ -1,4 +1,5 @@
-<h1 align="center">Hi there👋, I'm Igiraneza Honorine</h1>
+<h1 align="center">![image](https://user-images.githubusercontent.com/54628355/171986937-bca8d3e6-49ae-4c5e-b6e0-160486ba9d59.png)
+Hi there👋, I'm Igiraneza Honorine</h1>
 <h3 align="center">A passionate Fullstack developer from Rwanda</h3>
 
 - 🌱 I’m currently learning **Flutter & Dart, Docker**
