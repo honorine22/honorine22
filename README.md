@@ -1,5 +1,4 @@
-<h1 align="center">![image](https://user-images.githubusercontent.com/54628355/171986937-bca8d3e6-49ae-4c5e-b6e0-160486ba9d59.png)
-Hi there👋, I'm Igiraneza Honorine</h1>
+<h1 align="center">https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330Hi there👋, I'm Igiraneza Honorine</h1>
 <h3 align="center">A passionate Fullstack developer from Rwanda</h3>
 
 - 🌱 I’m currently learning **Flutter & Dart, Docker**
