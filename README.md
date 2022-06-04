@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Flutter & Dart, Docker**
 
-- 👨‍💻 All of my projects are available at [https://igiraneza.netlify.app/](https://igiraneza.netlify.app/)
+- 👨‍💻 All of my projects are available at🤜 [https://igiraneza.netlify.app/](https://igiraneza.netlify.app/)
 
-- 💬 Ask me about anything related to **Javascript/Nodejs or react/nextjs/vue/nuxtjs/Angular**
+- 💬 Ask me about anything related to🤜 **Javascript/Nodejs or react/nextjs/vue/nuxtjs/Angular**
 
-- 📫 How to reach me **https://www.linkedin.com/in/honorine-igiraneza-287901194/, igiranezah59@gmail.com**
+- 📫 How to reach me🤜 **https://www.linkedin.com/in/honorine-igiraneza-287901194/, igiranezah59@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mecM-A9y8KdZPjXgVzFp2RTgW7nklgfy/view?usp=sharing](https://drive.google.com/file/d/1mecM-A9y8KdZPjXgVzFp2RTgW7nklgfy/view?usp=sharing)
+- 📄 Know about my experiences🤜 [https://drive.google.com/file/d/1mecM-A9y8KdZPjXgVzFp2RTgW7nklgfy/view?usp=sharing](https://drive.google.com/file/d/1mecM-A9y8KdZPjXgVzFp2RTgW7nklgfy/view?usp=sharing)
 
 - ⚡ Fun fact about me: **I'm the best colleague ever!**
 
