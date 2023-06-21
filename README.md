@@ -9,8 +9,6 @@
 
 - 📫 How to reach me👉 **https://www.linkedin.com/in/honorine-igiraneza-287901194/, igiranezah59@gmail.com**
 
-- 📄 Know about my experiences👉 [https://drive.google.com/file/d/1mecM-A9y8KdZPjXgVzFp2RTgW7nklgfy/view?usp=sharing](https://drive.google.com/file/d/1mecM-A9y8KdZPjXgVzFp2RTgW7nklgfy/view?usp=sharing)
-
 - ⚡ Fun fact about me: **I'm the best colleague ever!**
 
 <h3 align="left">Languages and Tools:</h3>
