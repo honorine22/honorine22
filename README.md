@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter & Dart, Docker**
 
-- 👨‍💻 All of my projects are available at👉 [https://igiraneza.netlify.app/](https://igiraneza.netlify.app/)
+- 👨‍💻 Some of my projects are available at👉 [https://igiraneza.netlify.app/](https://igiraneza.netlify.app/)
 
 - 💬 Ask me about anything related to👉 **Javascript/Nodejs or react/nextjs/vue/nuxtjs/Angular**
 
