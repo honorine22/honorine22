@@ -1,11 +1,11 @@
-<h1 align="left">😎Hi there👋, I'm Igiraneza Honorine</h1>
+<h1 align="left">Hi there👋, I'm Honorine Igiraneza</h1>
 <h3 align="left">A passionate Fullstack developer from Rwanda</h3>
 
-- 🌱 I’m currently learning **Flutter & Dart, Docker**
+- 🌱 I’m currently learning **Kotlin/Jetpack Compose**
 
 - 👨‍💻 Some of my projects are available at👉 [https://igiraneza.netlify.app/](https://igiraneza.netlify.app/)
 
-- 💬 Ask me about anything related to👉 **Javascript/Nodejs or react/nextjs/vue/nuxtjs/Angular**
+- 💬 Ask me about anything related to👉 **Javascript (along with its frameworks)/Typescript/Kotlin (Jetpack Compose)**
 
 - 📫 How to reach me👉 **https://www.linkedin.com/in/honorine-igiraneza-287901194/, igiranezah59@gmail.com**
 
